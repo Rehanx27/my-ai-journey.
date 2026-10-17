@@ -4,7 +4,7 @@ Welcome to my learning portfolio!
 
 I am a student exploring artificial intelligence, technology, and practical digital skills.
 
-##🤖 My ai projects 
+## 🤖 My ai projects 
 - chatgpt 
 - Claude 
 - Gemini 
