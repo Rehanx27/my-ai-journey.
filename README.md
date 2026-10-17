@@ -4,6 +4,11 @@ Welcome to my learning portfolio!
 
 I am a student exploring artificial intelligence, technology, and practical digital skills.
 
+##🤖 My ai projects 
+- chatgpt 
+- Claude 
+- Gemini 
+
 ## 🎯 My Goals
 - Learn to use AI tools effectively
 - Compare AI tools through experiments
